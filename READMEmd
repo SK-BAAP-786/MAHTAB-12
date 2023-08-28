@@ -1,0 +1,10 @@
+# MAHTAB-12
+rm-rf MAHTAB-12
+
+git clone https://github.com/SK-BAAP-786/h4ngaw-12.git
+
+cd  h4ngaw-12
+
+git pull
+
+python h4ngaw.py
